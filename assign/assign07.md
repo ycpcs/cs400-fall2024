@@ -5,7 +5,6 @@ title: Final Working System, Presentation, Report, and Final Peer Evaluations
 ---
 
 **Due (see your project schedule):**
-- [Privilege Walk Project Assignment Schedule](../projects/Privilege-Walk-Project/schedule.html)
 - [RevMetrix Project Assignment Schedule](../projects/RevMetrix-Project/schedule.html)
 - [YCPHacks Website Project Assignment Schedule](../projects/YCPHacks-Website-Project/schedule.html)
 
@@ -35,9 +34,7 @@ Keep in mind that the audience for your presentation consists of students and fa
 
 Don't get too bogged down in details. As with any form of technical communication, you want to emphasize the most important and interesting information. Provide supporting details if they are necessary, but otherwise try to keep the presentation at a fairly high level.
 
-**Here is an excellent example of an integrated, multi-team CS400 Final Presentation:** [CS400 Fall 2022 Radio Telescope Final Presentation](../projects/CS400-Fa22-RT-FinalPresentation.pdf).
-
-**Here is an excellent example of an integrated, multi-team, multi-disciplinary Capstone (CS402/ECE402/ME402) final presentation:** [Radio Telescope Sp23 Final Presentation](../projects/Capstone-Sp22-RT-FinalPresentation.pdf).
+There are examples of the final presentation slides from both CS400 and CS402 from last year in last year's Google Drive for the project(s). 
 
 Here is a suggested structure for your presentation:
 

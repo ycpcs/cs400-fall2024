@@ -5,7 +5,6 @@ title: Analysis and Design
 ---
 
 **Due (see your project schedule):**
-- [Privilege Walk Project Assignment Schedule](../projects/Privilege-Walk-Project/schedule.html)
 - [RevMetrix Project Assignment Schedule](../projects/RevMetrix-Project/schedule.html)
 - [YCPHacks Website Project Assignment Schedule](../projects/YCPHacks-Website-Project/schedule.html)
 
@@ -16,7 +15,7 @@ This is a **Team** assignment.
 
 # Your Task
 
-**For existing projects (Privilege Walk, YCPHacks),** your task is to identify and indicate modifications to the existing analysis and design models (and create whatever new models might be necessary) which identify the important classes in your system, and their relationships. Include the database schema changes, showing the tables and fields of the database.  Use **textual analysis** from your Use Cases to identify the classes and attributes (nouns) and the methods and interfaces (verbs) for your UML diagram.
+**For existing projects (YCPHacks),** your task is to identify and indicate modifications to the existing analysis and design models (and create whatever new models might be necessary) which identify the important classes in your system, and their relationships. Include the database schema changes, showing the tables and fields of the database.  Use **textual analysis** from your Use Cases to identify the classes and attributes (nouns) and the methods and interfaces (verbs) for your UML diagram.
 
 **For new projects (RevMetrix),** your task is to develop your analysis and design models which identify the important classes in your system, and their relationships, as well as the interfaces that allow the various components of our system to communicate.  Include the database schema, showing the tables and fields of the database.  Use **textual analysis** from your Use Cases to identify the classes and attributes (nouns) and the methods and interfaces (verbs) for your UML diagram.
 

@@ -11,7 +11,6 @@ This is a **Team** assignment. **Create proposal documents in Google Docs so tha
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
 
-
 # Tasks
 
 There are three tasks which are part of this assignment.

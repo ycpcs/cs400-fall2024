@@ -5,7 +5,6 @@ title: Minimal Working System (and Mid-Term Peer Evaluations)
 ---
 
 **Due (see your project schedule):**
-- [Privilege Walk Project Assignment Schedule](../projects/Privilege-Walk-Project/schedule.html)
 - [RevMetrix Project Assignment Schedule](../projects/RevMetrix-Project/schedule.html)
 - [YCPHacks Website Project Assignment Schedule](../projects/YCPHacks-Website-Project/schedule.html)
 
